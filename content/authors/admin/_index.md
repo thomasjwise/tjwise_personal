@@ -66,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-Thomas Wise, is a master's student currently studying at Utrecht university. Although his interests are diverse, his main interests are in improving psychological research methods, improving statistics and data education and data visualization. His current thesis: *Evaluating Machine Learning Techniques for Early PTSD prognosis after Trauma using synthetic data*, looks to provide the foundation for the future development of a validated PTSD prognosis screening tool, to be deployed in emergency departments.
+Current Masters student studying at Utrecht university, with diverse interests across methodology and statistics including: improving psychological research methods, improving statistics and data education and data visualization. His current thesis: *Evaluating Machine Learning Techniques for Early PTSD prognosis after Trauma using synthetic data*, looks to provide the foundation for the future development of a validated PTSD prognosis screening tool, to be deployed in emergency departments.
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/tw_cv_2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
