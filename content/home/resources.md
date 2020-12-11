@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Resources"
-subtitle = "These are free and open-source educational resources delivered to the organisations listed."
+subtitle = "These are free and open-source educational resources delivered to the organizations listed. Follow the title link to access the resources"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
