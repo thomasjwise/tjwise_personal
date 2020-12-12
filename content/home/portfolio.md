@@ -37,6 +37,22 @@ date_format = "Jan 2006"
   """
   
 [[item]]
+  organization = "RBookdown Website"
+  organization_url = ""
+  title = "Applied Data Science and Visualization Course Website"
+  date_start = "2020-04-01"
+  url = "https://adav-course.netlify.app/"
+  description = """
+  RBookdown website, developed for the Utrecht University course: Applied Data Science and Visualisation Course.   
+  
+  Packages Use:
+  * R-Bookdown
+  * Github & Netlify Deployment
+  * Hugo Theme: Learn
+  """  
+
+  
+[[item]]
   organization = "Plotly Visualization"
   organization_url = ""
   title = "Carbon Dioxide Emission per Capitia, relational to National GDP"
