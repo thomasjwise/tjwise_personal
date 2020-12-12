@@ -15,9 +15,6 @@ organizations:
 - name: Utrecht University, Utrecht
   url: https://www.uu.nl/en
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
 - Data Visualization
@@ -67,6 +64,8 @@ highlight_name: true
 ---
 
 Current Masters student studying at Utrecht university, with diverse interests across methodology and statistics including: improving psychological research methods, improving statistics and data education and data visualization. His current thesis: *Evaluating Machine Learning Techniques for Early PTSD prognosis after Trauma using synthetic data*, looks to provide the foundation for the future development of a validated PTSD prognosis screening tool, to be deployed in emergency departments.
+
+Currently seeking PhD and Employment opportunities in the fields of psychological science, data analysis and machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/tw_cv_2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
