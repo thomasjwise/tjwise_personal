@@ -32,6 +32,19 @@ date_format = "Jan 2006"
   * Data Simulation 
   * Thesis Related work
   """
+  
+[[experience]]
+  title = "General Board Member"
+  company = "VVSOR"
+  company_url = "https://www.vvsor.nl/"
+  location = "The Netherlands"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  Projects: 
+  * National Statistics Education Directory
+  * Webcommittee Member
+  """
 
 [[experience]]
   title = "Student Research Assistant"

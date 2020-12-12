@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Various R & Phyton programming Courses"
+  url = "https://www.datacamp.com"
+  certificate_url = "https://www.linkedin.com/in/tjwise213/"
+  date_start = "2017-11"
+  date_end = ""
+  description = "Certificates available via Linkedin"
+  
+[[item]]
+  organization = "University of Reading"
+  organization_url = "http://www.reading.ac.uk/"
+  title = "Peer-Assisted Learning (PAL) Leader Training"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2016-07-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "University of Reading"
+  organization_url = "http://www.reading.ac.uk/"
+  title = "Peer Support Training"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "The British Psychological Society"
+  organization_url = "https://www.bps.org.uk/"
+  title = "Grammar and Effective Writing"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-12-01"
+  date_end = ""
   description = ""
 
 +++
