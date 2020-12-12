@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   Projects: 
   * National Statistics Education Directory
-  * Webcommittee Member
+  * Web-committee Member
   """
 
 [[experience]]
