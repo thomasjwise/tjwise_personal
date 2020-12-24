@@ -55,7 +55,6 @@ date_format = "Jan 2006"
   title = "Introduction to Data Visualization in R for Research"
   url = "https://edu-resource.thomasjwise.com/dataviz_research/"
   date_start = "2021-01-01"
-  url = ""
   description = """
   Topics Covered:  
   * Introduction to the Tidyverse in R
