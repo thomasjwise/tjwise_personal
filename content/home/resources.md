@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   organization = "Office for National Statistics"
   organization_url = "https://www.ons.gov.uk/"
   title = "aRt in R"
+  url = "https://edu-resource.thomasjwise.com/art_with_r/"
   date_start = "2020-08-01"
-  url = ""
   description = """
   Topics Covered:  
   * Introduction to the Tidyverse in R
