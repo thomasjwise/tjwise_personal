@@ -8,7 +8,7 @@ weight = 60  # Order that this section will appear.
 title = "Resources"
 subtitle = """
 These are free and open-source educational resources delivered to the organizations listed.  
-Follow the title link to access the resources published on github
+Follow the title link to access the resources published through this site, and available on Github
 """
 
 # Date format
@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   organization = "Office for National Statistics"
   organization_url = "https://www.ons.gov.uk/"
   title = "Introduction to Data Visualization in R for Business Informatics"
+  url = "https://edu-resource.thomasjwise.com/dataviz_business/"
   date_start = "2021-01-01"
-  url = ""
   description = """
   Topics Covered:  
   * Introduction to the Tidyverse in R
@@ -53,6 +53,7 @@ date_format = "Jan 2006"
   organization = "Academic Medical Center"
   organization_url = "https://www.amc.nl/web/home.htm"
   title = "Introduction to Data Visualization in R for Research"
+  url = "https://edu-resource.thomasjwise.com/dataviz_research/"
   date_start = "2021-01-01"
   url = ""
   description = """
