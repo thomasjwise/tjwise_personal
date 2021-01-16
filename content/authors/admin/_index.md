@@ -48,6 +48,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tjwise213/
+- icon: coffee
+  icon_pack: fas
+  link: https://www.buymeacoffee.com/thomasjwise
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,4 +71,6 @@ Current Masters student studying at Utrecht university, with diverse interests a
 Currently seeking PhD and Employment opportunities in the fields of psychological science, data analysis and machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/tw_cv_2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="coffee" pack="fas" >}} {{< staticref "https://www.buymeacoffee.com/thomasjwise" "newtab" >}} Support my Educational Resources {{< /staticref >}}.
 
