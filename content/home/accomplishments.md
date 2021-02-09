@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Various R and Phyton programming Courses"
+  title = "Various R and Python programming Courses"
   url = "https://www.datacamp.com"
   certificate_url = "https://www.linkedin.com/in/tjwise213/"
   date_start = "2017-11-01"
