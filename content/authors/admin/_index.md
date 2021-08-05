@@ -6,17 +6,16 @@ title: Thomas J Wise
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant and Master's Student 
+role: Graduate Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Academic Medical Center, Amsterdam
-  url: https://www.amc.nl/web/home.htm
-- name: Utrecht University, Utrecht
-  url: https://www.uu.nl/en
+- name: Office for National Statistics, Newport
+  url: https://www.ons.gov.uk/
 
 # Interests to show in About widget
 interests:
+- Data Science & Programming Education
 - Data Visualization
 - Psychological Research Methods
 - Machine Learning 
@@ -66,9 +65,9 @@ email: ""
 highlight_name: true
 ---
 
-Current Masters student studying at Utrecht university, with diverse interests across methodology and statistics including: improving psychological research methods, improving statistics and data education and data visualization. His current thesis: *Evaluating Machine Learning Techniques for Early PTSD prognosis after Trauma using synthetic data*, looks to provide the foundation for the future development of a validated PTSD prognosis screening tool, to be deployed in emergency departments.
+Recent graduate student from Utrecht University, studying Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, with diverse interests including improving psychological research methods as well as improving statistics, data science and data related communication. 
 
-Currently seeking PhD and Employment opportunities in the fields of psychological science, data analysis and machine learning.
+Previous and current projects include comparing machine learning techniques for early PTSD prognosis trauma, introductory data science courses provided for the Office for National Statistics and developing content for improving skills training to disadvantaged groups.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/tw_cv_2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
 

@@ -19,21 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Academic Medical Centre"
-  company_url = "https://www.amc.nl/web/home.htm"
-  location = "Amsterdam, NL"
-  date_start = "2020-09-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Database Cleaning & Management 
-  * Data Simulation 
-  * Thesis Related work
-  """
-  
-[[experience]]
   title = "General Board Member"
   company = "VVSOR"
   company_url = "https://www.vvsor.nl/"
@@ -45,6 +30,21 @@ date_format = "Jan 2006"
   * National Statistics Education Directory
   * Web-committee Member
   """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Academic Medical Centre"
+  company_url = "https://www.amc.nl/web/home.htm"
+  location = "Amsterdam, NL"
+  date_start = "2020-09-01"
+  date_end = "2021-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Database Cleaning & Management 
+  * Data Simulation 
+  * Thesis Related work
+  """
 
 [[experience]]
   title = "Student Research Assistant"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   company_url = "https://www.uu.nl/en"
   location = "Utrecht, NL"
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
   Projects Included: 
   * Replication in Psychological Sciences, Transcription Work; Hidde Leplaa

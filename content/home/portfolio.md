@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Applied Data Science and Visualization Course Website"
   date_start = "2020-04-01"
-  url = "https://adav-course.netlify.app/"
+  url = "https://adav-course-2021.netlify.app/"
   description = """
   RBookdown website, developed for the Utrecht University course: Applied Data Science and Visualisation Course.   
   
