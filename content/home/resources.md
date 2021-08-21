@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Office for National Statistics"
   organization_url = "https://www.ons.gov.uk/"
-  title = "Introduction to Data Visualization in R for Business Informatics"
+  title = "Introduction to Data Visualization in R for Business Informatics 1"
   url = "https://edu-resource.thomasjwise.com/dataviz_business/"
   date_start = "2021-01-01"
   description = """
@@ -64,5 +64,30 @@ date_format = "Jan 2006"
   * Publication for Scientific Journals
   """
   
+[[item]]
+  organization = "Office for National Statistics"
+  organization_url = "https://www.ons.gov.uk/"
+  title = "Data Visualisation for Business 2: Plots for Publication"
+  url = "https://edu-resource.thomasjwise.com/dataviz_business2/"
+  date_start = "2021-07-01"
+  description = """
+  Topics Covered:  
+  * Specifying and Adapting the graphical space with ggplot2
+  * Understanding the flexibility of ggplot2 and how to utilize it in producing publishable content
+  * Creative Thinking and Problem Solving regarding coding
+  """
 
+[[item]]
+  organization = "Office for National Statistics"
+  organization_url = "https://www.ons.gov.uk/"
+  title = "Introduction to Machine Learning - Tree-Based Models"
+  url = "https://edu-resource.thomasjwise.com/introml_tree/"
+  date_start = "2021-08-01"
+  description = """
+  Topics Covered:  
+  * Theoretical and practical overview of Tree-Based Models
+  * The Use of Decision Trees for classification and regression problems
+  * Interpretation and Evaluation of Simple (unpruned) models
+  """
+  
 +++
