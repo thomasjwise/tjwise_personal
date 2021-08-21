@@ -69,7 +69,7 @@ Recent graduate student from Utrecht University, studying Methodology and Statis
 
 Previous and current projects include comparing machine learning techniques for early PTSD prognosis trauma, introductory data science courses provided for the Office for National Statistics and developing content for improving skills training to disadvantaged groups.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/tw_cv_2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/tw_cv_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="coffee" pack="fas" >}} {{< staticref "https://www.buymeacoffee.com/thomasjwise" "newtab" >}} Support my Educational Resources {{< /staticref >}}.
 
