@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Graduate Data Scientist"
+  company = "Office for National Statistics"
+  company_url = "https://www.ons.gov.uk/"
+  location = "Newport, UK"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = """
+  Projects: 
+  * To be confirmed 
+  """
+
+[[experience]]
   title = "General Board Member"
   company = "VVSOR"
   company_url = "https://www.vvsor.nl/"
