@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   organization = "Office for National Statistics"
   organization_url = "https://www.ons.gov.uk/"
   title = "aRt in R"
-  url = "https://edu-resource.thomasjwise.com/art_with_r/"
+  url = "https://edu-ons.thomasjwise.com/art_with_r/"
   date_start = "2020-08-01"
   description = """
   Topics Covered:  
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   organization = "Office for National Statistics"
   organization_url = "https://www.ons.gov.uk/"
   title = "Introduction to Data Visualization in R for Business Informatics 1"
-  url = "https://edu-resource.thomasjwise.com/dataviz_business/"
+  url = "https://edu-ons.thomasjwise.com/dataviz1/"
   date_start = "2021-01-01"
   description = """
   Topics Covered:  
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   organization = "Office for National Statistics"
   organization_url = "https://www.ons.gov.uk/"
   title = "Data Visualisation for Business 2: Plots for Publication"
-  url = "https://edu-resource.thomasjwise.com/dataviz_business2/"
+  url = "https://edu-ons.thomasjwise.com/dataviz2/"
   date_start = "2021-07-01"
   description = """
   Topics Covered:  
@@ -81,13 +81,38 @@ date_format = "Jan 2006"
   organization = "Office for National Statistics"
   organization_url = "https://www.ons.gov.uk/"
   title = "Introduction to Machine Learning - Tree-Based Models"
-  url = "https://edu-resource.thomasjwise.com/introml_tree/"
+  url = "https://edu-ons.thomasjwise.com/introml_tree/"
   date_start = "2021-08-01"
   description = """
   Topics Covered:  
   * Theoretical and practical overview of Tree-Based Models
   * The Use of Decision Trees for classification and regression problems
   * Interpretation and Evaluation of Simple (unpruned) models
+  """
+  
+[[item]]
+  organization = "Office for National Statistics"
+  organization_url = "https://www.ons.gov.uk/"
+  title = "Data in R, an introduction to Data Manipulation and Cleaning"
+  url = "https://edu-ons.thomasjwise.com/data_man_clean1/"
+  date_start = "2021-10-01"
+  description = """
+  Topics Covered:  
+  * Theoretical and practical overview of Data Cleaning & Manipulation methods
+  * Selecting, Manipulating and Transforming Data
+  * Identification and Removal of Missing Data 
+  """
+  
+[[item]]
+  organization = "Office for National Statistics"
+  organization_url = "https://www.ons.gov.uk/"
+  title = "Introduction to R Studio"
+  url = "https://edu-ons.thomasjwise.com/r_intro/"
+  date_start = "2021-10-01"
+  description = """
+  Topics Covered:  
+  * Visual Introduction to the R Studio Visual Interface 
+  * Content in Development
   """
   
 +++
