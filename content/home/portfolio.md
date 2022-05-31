@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Office for National Statistics - UNECE - Machine Learning Group"
+  organization_url = "https://statswiki.unece.org/display/ML/Machine+Learning+Group+2022"
+  title = "Machine Learning Foundations for Non-programmers"
+  date_start = "2022-04-27"
+  url = "https://youtu.be/j9eklm9sGpE"
+  description = """
+  An online lecture focusing on elements beyond the traditional programming elements of machine learning. Most notably focusing on the foundations and theory of machine learning for a statistical audience.
+  """
   
 [[item]]
   organization = "RShiny Dashboard Application"
@@ -50,21 +60,6 @@ date_format = "Jan 2006"
   * Github & Netlify Deployment
   * Hugo Theme: Learn
   """  
-
-  
-[[item]]
-  organization = "Plotly Visualization"
-  organization_url = ""
-  title = "Carbon Dioxide Emission per Capitia, relational to National GDP"
-  date_start = "2019-12-01"
-  url = " https://twise.shinyapps.io/CO2_GDP_MK1/"
-  description = """
-  A Plotly visualization displaying the interaction World Bank Data's on Carbon Dioxide Emissions in Relation to a countries GDP.
-  
-  Packages Use:
-  * Tidyverse
-  * Plotly
-  """
   
 
 +++

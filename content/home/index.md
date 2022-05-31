@@ -6,5 +6,5 @@ type: widget_page
 headless: true
 
 # Page Summary 
-summary: Thomas Wise. Current Student of Statistics Utrecht University. 
+summary: Thomas Wise. Graduate Data Scientist
 ---

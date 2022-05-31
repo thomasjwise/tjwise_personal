@@ -15,9 +15,15 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
+  form: 
+    provider: formspree
+    formspree:
+      id: https://formspree.io/f/xbjwwqvg
   
   email_form: 0 
   
 design:
   columns: '2'
 ---
+
+
